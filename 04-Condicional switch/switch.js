@@ -20,5 +20,4 @@ switch(color){
     console.log("El color no es valido");
     alert("El color no es valido")
     break;
-
 }
